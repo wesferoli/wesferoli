@@ -8,7 +8,7 @@
 ## About me
 How are you doing?
 
-I'm a 25 years old Front End Developer :smile:
+I'm a 26 years old Front End Developer :smile:
 <br></br>
 - 🏫 Technical degree in Systems Analysis and Development at IFSP - Guarulhos
 - 🔨 Ready to work and willing to help!
