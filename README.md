@@ -18,11 +18,14 @@ I'm a 26 years old Front End Developer :smile:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&color=black)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&color=gray)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js&color=black)&nbsp;
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-05122A?style=flat&logo=chakraui&color=gray)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js&color=gray)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify&color=black)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss&color=gray)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=black)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&color=gray)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&color=black)&nbsp;
-![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-05122A?style=flat&logo=testing-library&color=gray)&nbsp;
+![Vitest](https://img.shields.io/badge/-Vitest-05122A?style=flat&logo=vitest&color=gray)&nbsp;
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-05122A?style=flat&logo=testing-library&color=black)&nbsp;
 
 <!--
 ### Hi there 👋
